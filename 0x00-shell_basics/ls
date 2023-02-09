@@ -1,0 +1,38 @@
+../:
+total 12
+drwxr-xr-x 5 root root  108 Feb  9 04:39 .
+drwxr-xr-x 1 root root  173 Feb  8 01:37 ..
+drwxr-xr-x 2 root root 4096 Feb  9 08:41 0x00-shell_basics
+drwxr-xr-x 6 root root 4096 Feb  9 08:13 0x01-shell_permissions
+drwxr-xr-x 8 root root  201 Feb  9 08:41 .git
+-rw-r--r-- 1 root root    0 Feb  8 04:10 index.html
+-rw-r--r-- 1 root root   20 Feb  8 01:50 README.md
+
+./:
+total 68
+drwxr-xr-x 2 root root 4096 Feb  9 08:41 .
+drwxr-xr-x 5 root root  108 Feb  9 04:39 ..
+-rwxr--r-- 1 root root   22 Feb  8 02:53 0-current_working_directory
+-rwxr--r-- 1 root root   17 Feb  8 03:42 10-back
+-rwxr--r-- 1 root root   51 Feb  9 08:41 11-lists
+-rwxr--r-- 1 root root   53 Feb  9 08:35 12-file_type
+-rwxr--r-- 1 root root   33 Feb  8 04:04 13-symbolic_link
+-rwxr--r-- 1 root root   27 Feb  9 08:32 14-copy_html
+-rwxr--r-- 1 root root   16 Feb  8 02:41 1-listit
+-rwxr--r-- 1 root root   15 Feb  8 03:03 2-bring_me_home
+-rwxr--r-- 1 root root   18 Feb  8 03:15 3-listfiles
+-rwxr--r-- 1 root root   18 Feb  8 03:16 4-listmorefiles
+-rwxr--r-- 1 root root   20 Feb  8 03:20 5-listfilesdigitonly
+-rwxr--r-- 1 root root   45 Feb  8 03:33 6-firstdirectory
+-rwxr--r-- 1 root root   50 Feb  8 03:37 7-movethatfile
+-rwxr--r-- 1 root root   44 Feb  8 03:39 8-firstdelete
+-rwxr--r-- 1 root root   40 Feb  8 03:41 9-firstdirdeletion
+-rw-r--r-- 1 root root    0 Feb  8 04:09 index.html
+lrwxrwxrwx 1 root root    7 Feb  8 04:05 __ls__ -> /bin/ls
+-rw-r--r-- 1 root root    0 Feb  9 08:41 ls
+-rw-r--r-- 1 root root   34 Feb  8 01:51 README.md
+
+/boot:
+total 0
+drwxr-xr-x 2 root root   6 Apr 15  2020 .
+drwxr-xr-x 1 root root 173 Feb  8 01:37 ..
