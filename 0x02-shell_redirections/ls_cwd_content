@@ -1,0 +1,23 @@
+total 76
+drwxr-xr-x 2 root root  4096 Feb 13 06:36 .
+drwxr-xr-x 6 root root   139 Feb 13 05:05 ..
+-rwxr--r-- 1 root root    32 Feb 13 05:12 0-hello_world
+-rw-r--r-- 1 root root     0 Feb 13 06:31 0-mac_and_cheese
+-rwxr--r-- 1 root root    28 Feb 13 05:16 1-confused_smiley
+-rwxr--r-- 1 root root    28 Feb 13 05:15 1-confused_smiley~
+-rwxr--r-- 1 root root    28 Feb 13 05:32 2-hellofile
+-rwxr--r-- 1 root root    39 Feb 13 05:35 3-twofiles
+-rwxr--r-- 1 root root    34 Feb 13 05:38 4-lastlines
+-rwxr--r-- 1 root root    34 Feb 13 05:42 5-firstlines
+-rwxr--r-- 1 root root    36 Feb 13 06:02 6-third_line
+-rwxr--r-- 1 root root    76 Feb 13 06:24 7-file
+-rw-r--r-- 1 root root     0 Feb 13 06:30 7-file~
+-rwxr--r-- 1 root root    36 Feb 13 06:36 8-cwd_state
+-rwxr--r-- 1 root root    34 Feb 13 06:35 8-cwd_state~
+-rw-r--r-- 1 root root    12 Feb 13 06:31 \*\'"Best School"\'\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   810 Feb 13 05:56 iacta
+-rw-r--r-- 1 root root 12288 Feb 13 05:57 .iacta.swp
+-rw-r--r-- 1 root root     0 Feb 13 06:36 ls_cwd_content
+-rw-r--r-- 1 root root     0 Feb 13 06:31 Makefile
+-rw-r--r-- 1 root root    18 Feb 13 05:06 README.md
+-rw-r--r-- 1 root root   213 Feb 13 06:00 tail
